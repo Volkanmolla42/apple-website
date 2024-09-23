@@ -16,5 +16,5 @@ export default defineConfig({
   build: {
     sourcemap: true,
   },
-  base: '/apple-iphone-website/',
+  base: '/apple-website/',
 })
